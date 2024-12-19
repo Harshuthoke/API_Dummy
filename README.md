@@ -130,4 +130,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 For any queries, contact the developer:
 
 **Harshal Thoke**  
-[Portfolio](https://harshuthoke.wixsite.com/harshaldeveloper)
+[Portfolio](https://harshuthoke.github.io/Harshal_Portfolio/)
