@@ -180,6 +180,7 @@ def submit():
             buffer = io.BytesIO()
             document.save(buffer)
             buffer.seek(0)
+            
 
             # Send file
             return send_file(buffer, as_attachment=True, download_name=f'report_{form_data["case_number"]}.docx', mimetype='application/vnd.openxmlformats-officedocument.wordprocessingml.document')
